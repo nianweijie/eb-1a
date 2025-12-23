@@ -1,3 +1,6 @@
+#ignore huge pdf file:
+inkin (3).pdf
+
 .DS_Store
 .idea
 
