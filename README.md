@@ -1,5 +1,9 @@
 # How I got EB-1A green card for extraordinary ability
-
+Using steps: 
+Clone this repository:
+git clone https://github.com/alexeyinkin/eb-1a.git
+Open latex_public/inkin.tex in your favorite LaTeX editor.
+Build it.
 I was approved for a United States green card for extraordinary ability in science (I am a programmer)
 in 2024.
 
